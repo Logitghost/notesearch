@@ -1,0 +1,40 @@
+{"id": "q01", "text": "Precision Recall tradeoff ", "type": "keyword", "split": "dev"}
+{"id": "q02", "text": "Pruning Techniques", "type": "keyword", "split": "dev"}
+{"id": "q03", "text": "Usage of database index", "type": "keyword", "split": "dev"}
+{"id": "q04", "text": "Semantic data preprocessing", "type": "keyword", "split": "dev"}
+{"id": "q05", "text": "biological inspiration of neural networks", "type": "keyword", "split": "dev"}
+{"id": "q06", "text": "Components of business intelligence", "type": "keyword", "split": "test"}
+{"id": "q07", "text": "AI in Interviews", "type": "keyword", "split": "test"}
+{"id": "q08", "text": "Explicit feedback in Relevance feedback", "type": "keyword", "split": "test"}
+{"id": "q09", "text": "Which databases store data as simple key and value pairs?", "type": "question", "split": "dev"}
+{"id": "q10", "text": "which machine learning libraries are built on top of JAX?", "type": "question", "split": "dev"}
+{"id": "q11", "text": "how do databases represent data that might be wrong or incomplete?", "type": "question", "split": "dev"}
+{"id": "q12", "text": "When did Cyberattacks happened on huggingface and what was its relation with OpenAI?", "type": "question", "split": "dev"}
+{"id": "q13", "text": "What can be interpreted by grokking?", "type": "question", "split": "dev"}
+{"id": "q14", "text": "what is a gaussian mixture model used for in clustering?", "type": "question", "split": "test"}
+{"id": "q15", "text": "why does preparing input variables matter before fitting a statistical model?", "type": "question", "split": "test"}
+{"id": "q16", "text": "What are Learning via Canonical Ensemble models?", "type": "question", "split": "test"}
+{"id": "q17", "text": "something odd where a model gets worse as it grows and then gets better again", "type": "vague", "split": "dev"}
+{"id": "q18", "text": "something about teaching a model by making it forget parts of its input", "type": "vague", "split": "dev"}
+{"id": "q19", "text": "some way of ensuring that a database structure is suitable for general-purpose querying", "type": "vague", "split": "dev"}
+{"id": "q20", "text": " drag and drop tool for cleaning and preparing data", "type": "vague", "split": "dev"}
+{"id": "q21", "text": "sense of replicating a session on a host computer in a virtual instance in the cloud", "type": "vague", "split": "dev"}
+{"id": "q22", "text": "some company which develops medical devices for chronic disease management", "type": "vague", "split": "test"}
+{"id": "q23", "text": "something which is used to recover after loss from data corruption", "type": "vague", "split": "test"}
+{"id": "q24", "text": "the technology that lets you search inside recordings by what is said", "type": "vague", "split": "test"}
+{"id": "q25", "text": "LoRA", "type": "exact", "split": "dev"}
+{"id": "q26", "text": "backpropagation", "type": "exact", "split": "dev"}
+{"id": "q27", "text": "target leakage", "type": "exact", "split": "dev"}
+{"id": "q28", "text": "lexical search", "type": "exact", "split": "dev"}
+{"id": "q29", "text": "Retirement of 80 million tiny images", "type": "exact", "split": "dev"}
+{"id": "q30", "text": "ACID", "type": "exact", "split": "test"}
+{"id": "q31", "text": "NBCUniversal Archives", "type": "exact", "split": "test"}
+{"id": "q32", "text": "Global memory supply shortage", "type": "exact", "split": "test"}
+{"id": "q33", "text": "when a program does great on examples it has seen but badly on new ones", "type": "paraphrase", "split": "dev"}
+{"id": "q34", "text": "how a search engine can instantly find every page containing a word without reading them all", "type": "paraphrase", "split": "dev"}
+{"id": "q35", "text": "an attack where a website ends up running someone else's code in a visitor's browser", "type": "paraphrase", "split": "dev"}
+{"id": "q36", "text": "two programs each waiting for the other to let go of something so neither can continue", "type": "paraphrase", "split": "dev"}
+{"id": "q37", "text": "repeatedly nudging numbers downhill until the error stops getting smaller", "type": "paraphrase", "split": "dev"}
+{"id": "q38", "text": "a compact way to check whether something is probably in a huge collection, with occasional false alarms", "type": "paraphrase", "split": "test"}
+{"id": "q39", "text": "tricking a login form into running database commands typed into the password box", "type": "paraphrase", "split": "test"}
+{"id": "q40", "text": "suggesting things you might like based on what similar people liked", "type": "paraphrase", "split": "test"}
