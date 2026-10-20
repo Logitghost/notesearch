@@ -1,0 +1,5 @@
+numpy>=1.26
+sentence-transformers>=3.0   # Day 2: real embeddings
+nltk>=3.8                    # optional: Snowball stemmer for the stemming ablation
+pytest>=8.0
+matplotlib>=3.8              # optional: plots for the write-up

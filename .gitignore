@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+idx*/
+runs/
+data/*
+!data/.gitkeep
+label_pool.tsv
